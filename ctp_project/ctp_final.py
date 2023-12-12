@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 # SEABORN IS A PLOTTING LIBRARY
-import seaborn as sns
+
 # MATPLOT LIB IS ALSO A PLOTTING LIBRARY
 import matplotlib.pyplot as plt
 import streamlit as st
